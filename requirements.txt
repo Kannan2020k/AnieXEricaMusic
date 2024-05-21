@@ -1,6 +1,6 @@
-aiofiles
-aiohttp
-asyncio
+saiofiles
+aiohttp==3.9.3
+asyncio==3.4.3
 beautifulsoup4
 dnspython
 ffmpeg-python
@@ -10,10 +10,10 @@ heroku3
 motor==3.0.0
 pillow==9.5.0
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==2.0.1
 pykeyboard
 pyrogram==2.0.106
-python-dotenv
+python-dotenv==1.0.1
 pyyaml
 requests
 speedtest-cli
